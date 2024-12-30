@@ -66,13 +66,11 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 Clone the Repository
 To clone this repository to your local machine, run:
 
-CopyReplit
 git clone https://github.com/your-username/ml-algorithm-practice.git
 cd ml-algorithm-practice
 Directory Structure
 The repository is structured as follows:
 
-CopyReplit
 ml-algorithm-practice/
 │
 ├── linear_regression/
@@ -114,7 +112,6 @@ ml-algorithm-practice/
 Usage
 To run a particular algorithm, navigate into its respective directory and execute the appropriate Python script. For example:
 
-CopyReplit
 cd linear_regression
 python linear_regression.py
 Ensure to modify any dataset paths or parameters as necessary to suit your use case.
