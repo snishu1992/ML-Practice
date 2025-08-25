@@ -4,17 +4,6 @@ Practice all ML Algorithms
 
 Welcome to the Machine Learning Algorithm Practice repository! This repository contains various implementations and practice codes for different machine learning algorithms, along with examples and datasets.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Algorithms](#algorithms)
-- [Getting Started](#getting-started)
-- [Directory Structure](#directory-structure)
-- [Requirements](#requirements)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 This repository is designed for those who want to practice and implement various machine learning algorithms. It serves as a collection of code examples that illustrate how to use different algorithms in practice, including supervised and unsupervised learning techniques.
@@ -68,48 +57,8 @@ To clone this repository to your local machine, run:
 
 git clone https://github.com/your-username/ml-algorithm-practice.git
 cd ml-algorithm-practice
-Directory Structure
-The repository is structured as follows:
 
-ml-algorithm-practice/
-│
-├── linear_regression/
-│   ├── linear_regression.py
-│   └── dataset.csv
-│
-├── logistic_regression/
-│   ├── logistic_regression.py
-│   └── dataset.csv
-│
-├── decision_trees/
-│   ├── decision_tree.py
-│   └── dataset.csv
-│
-├── random_forest/
-│   ├── random_forest.py
-│   └── dataset.csv
-│
-├── svm/
-│   ├── svm.py
-│   └── dataset.csv
-│
-├── knn/
-│   ├── knn.py
-│   └── dataset.csv
-│
-├── neural_networks/
-│   ├── neural_network.py
-│   └── dataset.csv
-│
-├── kmeans/
-│   ├── kmeans.py
-│   └── dataset.csv
-│
-├── pca/
-│   ├── pca.py
-│   └── dataset.csv
-└── README.md
-Usage
+**Usage**
 To run a particular algorithm, navigate into its respective directory and execute the appropriate Python script. For example:
 
 cd linear_regression
